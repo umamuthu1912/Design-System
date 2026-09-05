@@ -47,19 +47,20 @@ Report conflicts rather than silently combining contradictory guidance.
 
 ## Library architecture
 
-foundations/
-components/
-patterns/
-templates/
-domain-guidance/
-content-guidance/
-accessibility/
-system.md
+1. foundations/
+2. components/
+3. patterns/
+4. templates/
+5. domain-guidance/
+6. content-guidance/
+7. accessibility/
+8. system.md
 
 
 ## Foundation index
-Foundation	ID	               Status	   Source
-[Name]	    foundation.[name]	 [Status]	 [Link/path]
+Foundation	: [Name]
+ID :	                Source
+	    foundation.[name]	 [Status]	 [Link/path]
 
 ## Component index
 Component	ID	Category	Status	Source
