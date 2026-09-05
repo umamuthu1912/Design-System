@@ -45,7 +45,7 @@ When sources disagree, use this order:
 
 Report conflicts rather than silently combining contradictory guidance.
 
-Library architecture
+## Library architecture
 
 foundations/
 components/
@@ -57,23 +57,23 @@ accessibility/
 system.md
 
 
-Foundation index
-Foundation	ID	Status	Source
-[Name]	foundation.[name]	[Status]	[Link/path]
+## Foundation index
+Foundation	ID	               Status	   Source
+[Name]	    foundation.[name]	 [Status]	 [Link/path]
 
-Component index
+## Component index
 Component	ID	Category	Status	Source
 [Name]	component.[name]	[Category]	[Status]	[Link/path]
 
-Pattern index
+## Pattern index
 Pattern	ID	Category	Status	Source
 [Name]	pattern.[name]	[Category]	[Status]	[Link/path]
 
-Template index
+## Template index
 Screen template	Purpose	Status	Source
 [Name]	[Purpose]	[Status]	[Link/path]
 
-Global composition rules
+## Global composition rules
 
 Always
 
